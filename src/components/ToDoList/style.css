@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    background-color: #363636;
+}
+
+#projeto {
+    float: left;
+    width: 30vw;
+    background-color: coral;
+    border-radius: 20px;
+}
+
+#tarefa {
+    float: right;
+    width: 60vw;
+    background-color: coral;
+    border-radius: 20px;
+}
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.plus {
+    font-size: 35px;
+}

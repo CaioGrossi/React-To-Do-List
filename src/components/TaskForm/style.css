@@ -1,0 +1,25 @@
+#formTarefa {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    width: 20vw;
+    height: 38vh;
+    left: 40vw;
+    top: 20vh;
+
+    background-color: rgb(220,220,220);
+    border-radius: 20px;
+    border: solid black 2px;
+    padding: 8px;
+}
+
+#botoes2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    text-align: center;
+}
