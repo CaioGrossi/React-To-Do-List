@@ -1,3 +1,8 @@
 # React-To-Do-List
 
-Lista de tarefas feita em React para treinar conceitos basicos da biblioteca e aplica-los.
+Lista de tarefas separada por projetos.
+
+## Estudado 
+* ReactJS
+* Hooks
+
