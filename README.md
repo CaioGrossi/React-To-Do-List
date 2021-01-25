@@ -1,6 +1,10 @@
 # React to do list 
 List de tarefas feita em React. A lista pode ser separada por projeto, por exemplo criar um projeto "Supermercado" e colocar "banana, maça e feijao" e criar outro projeto "Estudo" e colocar "matemática, biologia e química". Ao clicar no projeto, serão mostradas as tarefas relacionadas a ele.
 
+<p align="center">
+  <img src="/demo/react-to-do-list.gif" />
+</p>
+
 ## Pré-requisitos
 Ter uma versão atualizada do NodeJS instalada em sua maquina e um gerenciador de pacotes (yarn ou npm).
 
